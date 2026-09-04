@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+# Строка "Sitemap:" дописывается автоматически при сборке —
+# см. scripts/sitemap.mjs. Она появится, как только будет известен
+# адрес сайта (переменная VITE_SITE_URL).
